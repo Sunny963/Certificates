@@ -8,7 +8,7 @@ Welcome to my certificate portfolio. Below are my key achievements and certifica
 - [Certified Training Certificate](cert-CT-PXIM8O8H.pdf)
 
 ## 🌟 About Me
-I’m a passionate **Native Android Developer** with **7.5 years of experience**. Skilled in **Flutter**, **Firebase**, and building cross-platform applications. Always eager to learn and grow in the tech industry.
+I’m a passionate **Android Developer** with **7.5 years of experience**. Currently learning **Flutter** to expand my skills in building cross-platform applications. Experienced in **Firebase** and committed to continuous growth in the tech industry.
 
 ## 📨 Contact Me
 - 📧 [Email Me](mailto:shailesh2771993@gmail.com)
