@@ -10,7 +10,7 @@ Welcome to my certificate portfolio. Below are my key achievements and certifica
 - [Certified Training Certificate](cert-CT-PXIM8O8H.pdf)
 
 ## 🌟 About Me
-I’m a passionate **Android Developer** with **7.5 years of experience**. Currently expanding my skills in **Flutter** to explore cross-platform development. Experienced in **Firebase** and committed to continuous learning and growth in the tech industry.
+I’m a passionate **Android Developer** with **8.7 years of experience**. Currently expanding my skills in **Kotlin Multiplatform** to explore cross-platform development. Experienced in **Firebase** and committed to continuous learning and growth in the tech industry.
 
 ## 📨 Contact Me
 - 📧 [Email Me](mailto:shailesh2771993@gmail.com)
