@@ -5,8 +5,8 @@ Welcome to my certificate portfolio. Below are my key achievements and certifica
 ## ✅ Certifications
 - [Certificate Of Appreciation](R&R_TUL.JPG)
 - [Tech Champion Certificate](tul_tech_champion_certificate.jpg)
-- [Certified in Kotlin Multiplatform Development](https://github.com/Sunny963/Certificates/blob/main/Certificate%20Kotlin%20Multi%20Platform%20-%20LinkedIn%20Learning.pdf)
-- [Certified in Java Spring 6 with Spring Boot 3](https://github.com/Sunny963/Certificates/blob/main/Certificate%20Spring%206%20with%20Spring%20Boot%203-%20LinkedIn%20Learning.pdf)
+- [Certified in Kotlin Multiplatform Development](Certificate_Kotlin_Multi_Platform__LinkedIn_Learning.pdf)
+- [Certified in Java Spring 6 with Spring Boot 3](Certificate_Spring_6_with_Spring_Boot_3__LinkedIn_Learning.pdf)
 - [Certified Training Certificate](cert-CT-PXIM8O8H.pdf)
 
 ## 🌟 About Me
