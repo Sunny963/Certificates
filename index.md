@@ -7,7 +7,7 @@ Welcome to my certificate portfolio. Below are my key achievements and certifica
 - [Tech Champion Certificate](tul_tech_champion_certificate.jpg)
 - [Certified in Kotlin Multiplatform Development](Certificate_Kotlin_Multi_Platform__LinkedIn_Learning.pdf)
 - [Certified in Java Spring 6 with Spring Boot 3](Certificate_Spring_6_with_Spring_Boot_3__LinkedIn_Learning.pdf)
-- [Certified Training Certificate](cert-CT-PXIM8O8H.pdf)
+- [Certification in Java](cert-CT-PXIM8O8H.pdf)
 
 ## 🌟 About Me
 I’m a passionate **Android Developer** with **8.7 years of experience** with Kolitn & Java. Currently expanding expertise in **Kotlin Multiplatform** for **cross‑platform development**, while strengthening capabilities in **Advanced Android Architectures**, **System Design**, **Multi‑Module Projects** to deliver robust **end‑to‑end mobile solutions**.
